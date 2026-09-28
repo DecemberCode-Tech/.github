@@ -39,9 +39,9 @@ data_region: ap-south-1     # your data stays in Mumbai
 Next.js 14 · TypeScript · Tailwind CSS · Supabase Postgres · Vercel · Razorpay (UPI Autopay) · Resend
 The app and the database both run in Mumbai (`bom1` / `ap-south-1`), because our students are in India.
 
-### Meet the leopard
+### Meet the leopard and Other Characters
 
-The snow leopard in the violet scarf is our mascot. Snow leopards live high in the Himalayas and cross the steepest terrain calmly, one step at a time. That's how we think placement prep should feel.
+"The December Code crew: our snow leopard with the character avatars"
 
 ### Find us
 
