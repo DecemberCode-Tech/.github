@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DecemberCode-Tech/.github/main/profile/banner.png" alt="December Code: a Fair Isle knit pattern of code symbols" width="100%">
+  <img src="https://raw.githubusercontent.com/DecemberCode-Tech/.github/main/profile/banner.jpg" alt="The December Code snow leopard at the foot of a Himalayan range made of code" width="100%">
 </p>
 
 ## Know where you stand_
