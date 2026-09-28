@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DecemberCode-Tech/.github/main/profile/banner.jpg" alt="The December Code snow leopard at the foot of a Himalayan range made of code" width="100%">
+  <img src="https://raw.githubusercontent.com/DecemberCode-Tech/.github/main/banner.jpg" alt="The December Code snow leopard at the foot of a Himalayan range made of code" width="100%">
 </p>
 
 ## Know where you stand_
 
 We build **December Code**, a placement-readiness platform for final-year students in India. One diagnostic measures where you stand across 19 subjects and names exactly what to fix first. Then you practise with purpose, not at random.
 
-Our first commit landed on **16 September 2026**: a walking skeleton with five subjects. We went live six days later, on **22 September**. As of 29 September 2026 there are **129 commits on `main`** and **19 subjects** live. ❄️
+Our first commit landed on **16 September 2026**: a walking skeleton with five subjects. We went live six days later, on **22 September**. As of 29 September 2026 there are **132 commits on `main`** and **19 subjects** live. ❄️
 
 ### `$ december --how`
 
@@ -47,4 +47,4 @@ The snow leopard in the violet scarf is our mascot. Snow leopards live high in t
 
 🌐 [decembercode.tech](https://decembercode.tech) · 𝕏 [@decemberctech](https://x.com/decemberctech) · 📷 [@decembercode.tech](https://www.instagram.com/decembercode.tech/) · ✉️ support@decembercode.tech
 
-**Free, forever:** 1 diagnostic a month + 15 practice problems a day. → [Take yours](https://decembercode.tech/placement-readiness-test)<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/b40be427-10e5-4bdd-a888-601e47dfba5f" />
+**Free, forever:** 1 diagnostic a month + 15 practice problems a day. → [Take yours](https://decembercode.tech/placement-readiness-test)
